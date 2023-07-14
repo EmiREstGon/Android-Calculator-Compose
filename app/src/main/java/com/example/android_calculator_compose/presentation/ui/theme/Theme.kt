@@ -1,4 +1,4 @@
-package com.example.android_calculator_compose.ui.theme
+package com.example.android_calculator_compose.presentation.ui.theme
 
 import android.app.Activity
 import android.os.Build
